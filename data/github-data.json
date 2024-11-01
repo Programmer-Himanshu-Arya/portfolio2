@@ -1,0 +1,55 @@
+{
+  "data": {
+    "user": {
+      "name": "Himanshu Arya",
+      "issues": {
+        "totalCount": 51
+      },
+      "pullRequests": {
+        "totalCount": 36
+      },
+      "url": "https://github.com/CodeDevArya"
+    },
+    "totalProjects": [
+      {
+        "nameWithOwner": "Podcastr - Podcast Player",
+        "description": "Discover and enjoy your favorite podcasts with Podcastr, a dynamic platform where you can easily create, upload, and listen to engaging audio content 🎙️🎙️.",
+        "url": "https://podcastr-one-tan.vercel.app/",
+        "avatarUrl": "https://podcastr-one-tan.vercel.app/icons/logo.svg"
+      },
+      {
+        "nameWithOwner": "TechLyft - Ecommerce App",
+        "description": "Shop with ease on our e-commerce platform, where you can explore, add to cart and else all while enjoying a smooth and seamless shopping experience 🛒🛒.",
+        "url": "https://tech-lyft-ecommerce.vercel.app/",
+        "avatarUrl": "https://i.ibb.co/k2NryZ2/tagged.png"
+      },
+      {
+        "nameWithOwner": "TrueFeedback - Feedback App",
+        "description": "Share your thoughts with TrueFeedback, a powerful app that lets users submit, view, and manage feedback with ease, fostering transparent and meaningful insights 📜📜.",
+        "url": "https://true-feedback-phi.vercel.app/",
+        "avatarUrl": "https://i.ibb.co/6XntSD2/image.png"
+      },
+      {
+        "nameWithOwner": "Tomato - Food Delivery App",
+        "description": "Tomato 🍅🍅 is a demo food delivery web app showcasing my web development skills, with a smooth UI, dynamic routing, and cart functionality—purely for skill display, not commercial use.",
+        "url": "https://tomato-cpum.onrender.com/",
+        "avatarUrl": "https://i.ibb.co/9nk3S93/image.png"
+      }
+    ],
+    "topTwoProjects": [
+      {
+        "nameWithOwner": "Podcastr - Podcast Player",
+        "description": "Discover and enjoy your favorite podcasts with Podcastr, a dynamic platform where you can easily create, upload, and listen to engaging audio content 🎙️🎙️.",
+        "url": "https://podcastr-one-tan.vercel.app/",
+        "avatarUrl": "https://podcastr-one-tan.vercel.app/icons/logo.svg"
+      },
+      {
+        "nameWithOwner": "TechLyft - Ecommerce App",
+        "description": "Shop with ease on our e-commerce platform, where you can explore, add to cart and else all while enjoying a smooth and seamless shopping experience 🛒🛒.",
+        "url": "https://tech-lyft-ecommerce.vercel.app/",
+        "avatarUrl": "https://i.ibb.co/k2NryZ2/tagged.png"
+      }
+    ]
+  },
+  "last_updated": "2024-10-03T17:08:46.335Z"
+}
