@@ -18,5 +18,4 @@ module.exports = {
     '@typescript-eslint/no-require-imports': 'off',
     'react/prop-types': 'off',
   },
-  off
 };
