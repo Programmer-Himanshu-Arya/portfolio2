@@ -3,6 +3,7 @@ import { JetBrains_Mono } from 'next/font/google';
 import './globals.css';
 import { cn } from '~/lib/utils';
 import { Providers } from './providers';
+import { Analytics } from '@vercel/analytics/react';
 
 const mono = JetBrains_Mono({ subsets: ['latin'] });
 
@@ -19,7 +20,10 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={cn(mono.className, 'mt-12')}>
-        <Providers>{children}</Providers>
+        <Providers>
+          {children}
+          <Analytics />
+        </Providers>
       </body>
     </html>
   );
