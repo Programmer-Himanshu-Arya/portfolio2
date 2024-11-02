@@ -20,7 +20,7 @@ export function Introduction() {
                 {
                   id: 2,
                   title: 'himanshu',
-                  image: 'https://utfs.io/f/2c14b502-511f-45f9-9dff-4a83a1cb77b1-wj0x4g.webp',
+                  image: 'https://i.ibb.co/JrktfG6/Untitled-1.png',
                 },
               ]}
             />
