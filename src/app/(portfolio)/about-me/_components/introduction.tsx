@@ -46,12 +46,7 @@ export function Introduction() {
                 {
                   title: 'Instagram',
                   icon: <FaInstagram className="size-5 md:size-10" />,
-                  href: 'https://www.instagram.com/programmer.himanshu.arya',
-                },
-                {
-                  title: 'Discord',
-                  icon: <FaDiscord className="size-5 md:size-10" />,
-                  href: 'https://discord.gg/Gp96KpvB',
+                  href: 'https://www.instagram.com/aryadevs.in',
                 },
               ]}
             />
