@@ -28,13 +28,7 @@
         "description": "Shop with ease on our e-commerce platform, where you can explore, add to cart and else all while enjoying a smooth and seamless shopping experience 🛒🛒.",
         "url": "https://tech-lyft-ecommerce.vercel.app/",
         "avatarUrl": "https://i.ibb.co/k2NryZ2/tagged.png"
-      },      
-      {
-        "nameWithOwner": "Podcastr - Podcast Player",
-        "description": "Discover and enjoy your favorite podcasts with Podcastr, a dynamic platform where you can easily create, upload, and listen to engaging audio content 🎙️🎙️.",
-        "url": "https://podcastr-one-tan.vercel.app/",
-        "avatarUrl": "https://podcastr-one-tan.vercel.app/icons/logo.svg"
-      },
+      }, 
       {
         "nameWithOwner": "TrueFeedback - Feedback App",
         "description": "Share your thoughts with TrueFeedback, a powerful app that lets users submit, view, and manage feedback with ease, fostering transparent and meaningful insights 📜📜.",
