@@ -12,6 +12,12 @@
     },
     "totalProjects": [
       {
+        "nameWithOwner": "Arya's Bakery",
+        "description": "An app designed for a bakery, showcasing my skills in web development, but not intended for commercial use. 🎂🍰",
+        "url": "https://arya-bakery.vercel.app/",
+        "avatarUrl": "https://i.ibb.co/Jczdz46/Favicon.png"
+      },
+      {
         "nameWithOwner": "Startup Directory",
         "description": "Submit Ideas of new Startups, Vote on Pitches, and Get Noticed in Virtual Competitions ✨✨",
         "url": "https://startup-directory-official.vercel.app/",
@@ -38,16 +44,16 @@
     ],
     "topTwoProjects": [
       {
+        "nameWithOwner": "Arya's Bakery",
+        "description": "An app designed for a bakery, showcasing my skills in web development, but not intended for commercial use. 🎂🍰",
+        "url": "https://arya-bakery.vercel.app/",
+        "avatarUrl": "https://i.ibb.co/Jczdz46/Favicon.png"
+      },
+      {
         "nameWithOwner": "Startup Directory",
         "description": "Submit Ideas of new Startups, Vote on Pitches, and Get Noticed in Virtual Competitions ✨✨",
         "url": "https://startup-directory-official.vercel.app/",
         "avatarUrl": "https://i.ibb.co/5GtNNrc/image.png"
-      },
-      {
-        "nameWithOwner": "TechLyft - Ecommerce App",
-        "description": "Shop with ease on our e-commerce platform, where you can explore, add to cart and else all while enjoying a smooth and seamless shopping experience 🛒🛒.",
-        "url": "https://tech-lyft-ecommerce.vercel.app/",
-        "avatarUrl": "https://i.ibb.co/k2NryZ2/tagged.png"
       }
     ]
   },
