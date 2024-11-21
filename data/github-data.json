@@ -28,12 +28,6 @@
         "description": "My Another portfolio website, showcasing my work and skills, with a smooth UI and dynamic routing.",
         "url": "https://himanshu-portfolio-web.vercel.app/",
         "avatarUrl": "https://i.ibb.co/0rn5xQM/image.png"
-      },
-      {
-        "nameWithOwner": "TechLyft - Ecommerce App",
-        "description": "Shop with ease on our e-commerce platform, where you can explore, add to cart and else all while enjoying a smooth and seamless shopping experience 🛒🛒.",
-        "url": "https://tech-lyft-ecommerce.vercel.app/",
-        "avatarUrl": "https://i.ibb.co/k2NryZ2/tagged.png"
       }, 
       {
         "nameWithOwner": "TrueFeedback - Feedback App",
