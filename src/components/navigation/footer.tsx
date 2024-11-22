@@ -1,5 +1,5 @@
 'use client';
-import { FaDiscord, FaGithub, FaInstagram, FaLinkedin } from 'react-icons/fa';
+import { FaDiscord, FaInstagram, FaLinkedin } from 'react-icons/fa';
 
 export function Footer() {
   return (
@@ -9,17 +9,14 @@ export function Footer() {
           <p className="flex gap-2">Made with ❤️ by Himanshu Arya</p>
           {/* <p>Updated {getRelativeDate(new Date(data.last_updated))} ago</p> */}
           <p className="flex gap-5 text-xl">
-            <a href="https://github.com/aryadevs" target="_blank">
+            <a href="https://github.com/CodeDevArya" target="_blank">
               <FaGithub />
             </a>
-            <a href="https://www.instagram.com/programmer.himanshu.arya" target="_blank">
+            <a href="https://www.instagram.com/aryadevs.in" target="_blank">
               <FaInstagram />
             </a>
             <a href="https://www.linkedin.com/in/code-dev-arya/" target="_blank">
               <FaLinkedin />
-            </a>
-            <a href="https://discord.com/invite/Gp96KpvB" target="_blank">
-              <FaDiscord />
             </a>
           </p>
         </div>
