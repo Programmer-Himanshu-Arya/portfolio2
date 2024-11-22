@@ -7,7 +7,6 @@ export function Footer() {
       <div className="flex flex-grow flex-col justify-between gap-2 rounded-md bg-muted/50 px-2 py-1 text-muted-foreground md:px-4 md:py-2">
         <div className="flex justify-between">
           <p className="flex gap-2">Made with ❤️ by Himanshu Arya</p>
-          {/* <p>Updated {getRelativeDate(new Date(data.last_updated))} ago</p> */}
           <p className="flex gap-5 text-xl">
             <a href="https://github.com/CodeDevArya" target="_blank">
               <FaGithub />
