@@ -1,5 +1,5 @@
 'use client';
-import { FaDiscord, FaInstagram, FaLinkedin } from 'react-icons/fa';
+import { FaGithub, FaInstagram, FaLinkedin } from 'react-icons/fa';
 
 export function Footer() {
   return (
