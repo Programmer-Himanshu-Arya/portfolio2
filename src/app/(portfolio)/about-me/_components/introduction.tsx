@@ -46,7 +46,7 @@ export function Introduction() {
                 {
                   title: 'Instagram',
                   icon: <FaInstagram className="size-5 md:size-10" />,
-                  href: 'https://www.instagram.com/aryadevs.in',
+                  href: 'https://www.instagram.com/aryadevs.io',
                 },
               ]}
             />
