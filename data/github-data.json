@@ -12,6 +12,12 @@
     },
     "totalProjects": [
       {
+        "nameWithOwner": "Roofing Website",
+        "description": "An app designed for a Roofing Company, showcasing my skills in web development, but not intended for commercial use. 🎂🍰",
+        "url": "https://roofing-black.vercel.app/",
+        "avatarUrl": "https://i.ibb.co/NSDhTMG/image.png"
+      },
+      {
         "nameWithOwner": "Arya's Bakery",
         "description": "An app designed for a bakery, showcasing my skills in web development, but not intended for commercial use. 🎂🍰",
         "url": "https://arya-bakery.vercel.app/",
@@ -26,16 +32,16 @@
     ],
     "topTwoProjects": [
       {
+        "nameWithOwner": "Roofing Website",
+        "description": "An app designed for a Roofing Company, showcasing my skills in web development, but not intended for commercial use. 🎂🍰",
+        "url": "https://roofing-black.vercel.app/",
+        "avatarUrl": "https://i.ibb.co/NSDhTMG/image.png"
+      },
+      {
         "nameWithOwner": "Arya's Bakery",
         "description": "An app designed for a bakery, showcasing my skills in web development, but not intended for commercial use. 🎂🍰",
         "url": "https://arya-bakery.vercel.app/",
         "avatarUrl": "https://i.ibb.co/Jczdz46/Favicon.png"
-      },
-      {
-        "nameWithOwner": "Startup Directory",
-        "description": "Submit Ideas of new Startups, Vote on Pitches, and Get Noticed in Virtual Competitions ✨✨",
-        "url": "https://startup-directory-official.vercel.app/",
-        "avatarUrl": "https://i.ibb.co/5GtNNrc/image.png"
       }
     ]
   },
