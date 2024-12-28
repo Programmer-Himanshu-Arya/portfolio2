@@ -14,15 +14,15 @@ import { OpenSource } from './open-source';
 export function ResumeAccordion() {
   return (
     <div className="w-full max-w-3xl">
-      <Accordion type="single" collapsible defaultValue="about-me">
-        <AccordionItem value="about-me">
+      <Accordion type="single" collapsible defaultValue="skills">
+{/*         <AccordionItem value="about-me">
           <AccordionTrigger className="text-4xl hover:no-underline">
-            <H3 className="text-3xl md:text-4xl">About Me</H3>
+            <H3 className="text-3xl md:text-4xl">About Us</H3>
           </AccordionTrigger>
           <AccordionContent>
             <AboutMe />
           </AccordionContent>
-        </AccordionItem>
+        </AccordionItem> */}
         {/* <AccordionItem value="experience">
           <AccordionTrigger className="text-4xl hover:no-underline">
             <H3 className="text-3xl md:text-4xl">Experience</H3>
@@ -39,14 +39,14 @@ export function ResumeAccordion() {
             <Skills />
           </AccordionContent>
         </AccordionItem>
-        <AccordionItem value="education">
+{/*         <AccordionItem value="education">
           <AccordionTrigger className="text-4xl hover:no-underline">
             <H3 className="text-3xl md:text-4xl">Education</H3>
           </AccordionTrigger>
           <AccordionContent>
             <Education />
           </AccordionContent>
-        </AccordionItem>
+        </AccordionItem> */}
         {/* <AccordionItem value="open-source">
           <AccordionTrigger className="text-4xl hover:no-underline">
             <H3 className="text-3xl md:text-4xl">Open Source</H3>
