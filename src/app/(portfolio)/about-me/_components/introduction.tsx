@@ -41,12 +41,12 @@ export function Introduction() {
                 {
                   title: 'LinkedIn',
                   icon: <FaLinkedin className="size-5 md:size-10" />,
-                  href: 'https://www.linkedin.com/in/code-dev-arya/',
+                  href: 'https://www.linkedin.com/in/aryadevs-agency/',
                 },
                 {
                   title: 'Instagram',
                   icon: <FaInstagram className="size-5 md:size-10" />,
-                  href: 'https://www.instagram.com/aryadevs.io',
+                  href: 'https://www.instagram.com/aryadevs.agency',
                 },
               ]}
             />
