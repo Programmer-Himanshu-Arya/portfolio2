@@ -22,18 +22,6 @@
         "description": "Submit Ideas of new Startups, Vote on Pitches, and Get Noticed in Virtual Competitions ✨✨",
         "url": "https://startup-directory-official.vercel.app/",
         "avatarUrl": "https://i.ibb.co/5GtNNrc/image.png"
-      },
-      {
-        "nameWithOwner": "Portfolio - Portfolio Website",
-        "description": "My Another portfolio website, showcasing my work and skills, with a smooth UI and dynamic routing.",
-        "url": "https://himanshu-portfolio-web.vercel.app/",
-        "avatarUrl": "https://i.ibb.co/0rn5xQM/image.png"
-      }, 
-      {
-        "nameWithOwner": "TrueFeedback - Feedback App",
-        "description": "Share your thoughts with TrueFeedback, a powerful app that lets users submit, view, and manage feedback with ease, fostering transparent and meaningful insights 📜📜.",
-        "url": "https://true-feedback-phi.vercel.app/",
-        "avatarUrl": "https://i.ibb.co/6XntSD2/image.png"
       }
     ],
     "topTwoProjects": [
