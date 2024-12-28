@@ -24,7 +24,7 @@ export function Hero() {
         <div className="z-10 flex flex-col items-center justify-center gap-4 md:flex-row">
           <Link href="/about-me">
             <Button className="rounded-full text-xl font-semibold shadow" size="lg">
-              <H4>About Me</H4>
+              <H4>About Us</H4>
             </Button>
           </Link>
           <Link href="/resume">
@@ -33,7 +33,7 @@ export function Hero() {
               size="lg"
               variant="secondary"
             >
-              <H4>Resume</H4>
+              <H4>Skills</H4>
               <ArrowRight
                 className="ml-2 transition-transform group-hover:translate-x-1"
                 size={24}
