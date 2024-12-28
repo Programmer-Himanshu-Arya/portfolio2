@@ -9,12 +9,8 @@ export function AboutMe() {
         <table className="text-xs text-secondary-foreground md:text-lg">
           <tbody>
             <tr>
-              <td className="text-muted-foreground md:pr-4">Name:</td>
+              <td className="text-muted-foreground md:pr-4">CEO Name:</td>
               <td>Himanshu Arya</td>
-            </tr>
-            <tr>
-              <td className="text-muted-foreground md:pr-4">Age:</td>
-              <td>{getRelativeDate(new Date('2008-11-19'))}</td>
             </tr>
             <tr>
               <td className="text-muted-foreground md:pr-4">Nationality:</td>
@@ -31,7 +27,7 @@ export function AboutMe() {
             <tr>
               <td className="text-muted-foreground md:pr-4">Email:</td>
               <td>
-                <CopyableText>contact.himanshu.arya@gmail.com</CopyableText>
+                <CopyableText>aryah144@gmail.com</CopyableText>
               </td>
             </tr>
           </tbody>
