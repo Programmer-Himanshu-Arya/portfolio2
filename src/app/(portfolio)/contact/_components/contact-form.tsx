@@ -122,7 +122,7 @@ export function ContactForm() {
                     <H4 className="text-base">Name</H4>
                   </FormLabel>
                   <FormControl>
-                    <Input placeholder="Ayush" {...field} />
+                    <Input placeholder="John Doe" {...field} />
                   </FormControl>
                   <FormMessage />
                 </FormItem>
@@ -137,7 +137,7 @@ export function ContactForm() {
                     <H4 className="text-base">Company Name</H4>
                   </FormLabel>
                   <FormControl>
-                    <Input placeholder="Acme Inc." {...field} />
+                    <Input placeholder="yourBusiness Inc." {...field} />
                   </FormControl>
                   <FormMessage />
                 </FormItem>
@@ -184,7 +184,6 @@ export function ContactForm() {
                       Query Regarding a Topic/Technology
                     </SelectItem>
                     <SelectItem value="Need Guidance">Need Guidance</SelectItem>
-                    <SelectItem value="Need to meet in-person">Want to meet in-person</SelectItem>
                     <SelectItem value="Others">Others</SelectItem>
                   </SelectContent>
                 </Select>
