@@ -28,7 +28,7 @@ export function Introduction() {
           <td className="pt-3 text-justify font-semibold text-secondary-foreground md:pl-10 md:pt-0">
             <H4 className="leading-8">
               {
-                "Hello! I'm Himanshu, also known as Aryadevs. I'm a full-stack web developer based in India, with a deep passion for crafting engaging web applications. Specializing in the MERN stack, Next.js, and TypeScript, I also prioritize creating intuitive user experiences. Continuously expanding my skills, I'm committed to delivering high-quality solutions that meet modern web standards and am excited about future opportunities in the tech industry."
+                "At AryaDevs, we specialize in crafting custom web solutions that drive results. With a team of skilled developers, designers, and digital strategists, we build seamless, user-friendly websites and applications that help businesses thrive in the digital world. Whether you need a dynamic website, or a complex web application, we have the expertise to bring your vision to life."
               }
             </H4>
             <FloatingDock
