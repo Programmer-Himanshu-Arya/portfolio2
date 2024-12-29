@@ -8,11 +8,11 @@ export type NavItem = {
 
 const NavItems: NavItem[] = [
   {
-    label: 'About Me',
+    label: 'About Us',
     pathname: '/about-me',
   },
   {
-    label: 'Resume',
+    label: 'Skills',
     pathname: '/resume',
   },
   {
@@ -20,7 +20,7 @@ const NavItems: NavItem[] = [
     pathname: '/projects',
   },
   {
-    label: 'Contact Me',
+    label: 'Contact Us',
     pathname: '/contact',
   },
 ];
