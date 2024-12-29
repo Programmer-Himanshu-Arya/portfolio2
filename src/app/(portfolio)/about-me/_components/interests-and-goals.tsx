@@ -8,13 +8,8 @@ import Link from 'next/link';
 export function InterestsAndGoals() {
   return (
     <div className="py-20">
-      <H2 className="w-full text-center">Interests and Goals</H2>
+      <H2 className="w-full text-center">Some Projects</H2>
       <div className="mb-10">
-        <P className="text-center text-sm text-secondary-foreground">
-          {
-            "I'm passionate about technology, enjoy crafting full-stack projects, fueling my creativity and technical growth."
-          }
-        </P>
         <P className="text-center text-sm text-secondary-foreground">
           {"Here are the top projects I've worked on."}
         </P>
